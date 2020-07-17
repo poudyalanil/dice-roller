@@ -1,10 +1,12 @@
-# diceroller
+# Dice Roller
+Simple flutter app that randomizes dice faces
 
-Simple dice roller with flutter
+## Screenshot
+
+
+![Image of Yaktocat](https://i.imgur.com/h40I4eh.png)   ![Image of Yaktocat](https://i.imgur.com/n3jp4Qu.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
